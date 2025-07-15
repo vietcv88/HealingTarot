@@ -2,12 +2,12 @@
 
 **Last updated: 15/07/2025**
 
-This Privacy Policy describes how **HealingTarot** ("we", "us", or "our"), developed and published by **Cao Văn Việt**, collects, uses, and shares information from users ("you") of our mobile application available on Google Play.
+This Privacy Policy describes how **HealingTarot** ("we", "us", or "our"), developed and published by **CoderViet**, collects, uses, and shares information from users ("you") of our mobile application available on Google Play.
 
 ## 1. Application & Developer Information
 
 - **App Name:** HealingTarot  
-- **Developer (Publisher):** Cao Văn Việt  
+- **Developer (Publisher):** CoderViet 
 - **Contact Email:** [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
 
 ## 2. Information We Collect
@@ -69,4 +69,4 @@ If you have any questions about this Privacy Policy, please contact:
 **Cao Văn Việt**  
 Email: [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
 
-© 2025 Cao Văn Việt. All rights reserved.
+© 2025 CoderViet. All rights reserved.
