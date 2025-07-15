@@ -44,7 +44,7 @@ We integrate the following third-party services:
 
 We implement reasonable technical and organizational measures to protect data in transit and at rest. However, no method of transmission over the internet or electronic storage is 100% secure.
 
-## 7. Children’s Privacy
+## 7. Children's Privacy
 
 Our app is not directed at children under 13. We do not knowingly collect personal information from children under 13.
 
