@@ -1,60 +1,72 @@
-# Privacy Policy for Tarot App
+# Privacy Policy for HealingTarot
 
-*Last updated: 13/06/2025
+**Last updated: 15/07/2025**
 
-This Privacy Policy describes how **Tarot App** ("we", "us", or "our") collects, uses, and shares information from users ("you") of our mobile application.
+This Privacy Policy describes how **HealingTarot** ("we", "us", or "our"), developed and published by **Cao Văn Việt**, collects, uses, and shares information from users ("you") of our mobile application available on Google Play.
 
-## 1. Information We Collect
+## 1. Application & Developer Information
 
-1. **Personal Information:** We do not require you to provide personal identifiable information such as name, email, or phone number to use the basic features of the app.
-2. **Device Information:** We may collect non-personal device data such as device type, operating system version, and app usage statistics to improve performance.
-3. **In-App Purchase Data:** If you make in-app purchases, we receive an anonymized transaction confirmation but do not store payment details.
-4. **Analytics:** We use third-party analytics (e.g., Google Analytics for Firebase) to understand usage patterns. Collected data is aggregated and anonymous.
+- **App Name:** HealingTarot  
+- **Developer (Publisher):** Cao Văn Việt  
+- **Contact Email:** [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
 
-## 2. How We Use Your Information
+## 2. Information We Collect
 
-* **App Functionality:** Device information helps us deliver the app’s core features and ensure compatibility.
-* **Improvements:** Usage statistics and crash reports allow us to enhance and fix bugs.
-* **Purchases:** We verify purchase receipts to grant in-app items (e.g., tarot cards or diamonds).
+1. **Personal Information:**  
+   - We do **not** require you to provide personally identifiable information (e.g., name, email, phone) to use the basic features of the app.
+2. **Device Information:**  
+   - We may collect non-personal device data such as device type, operating system version, and crash logs to improve compatibility and performance.
+3. **In-App Purchase Data:**  
+   - If you make in-app purchases, we receive an anonymized transaction confirmation but do **not** store any payment credentials.
+4. **Analytics:**  
+   - We use third-party analytics (e.g., Google Analytics for Firebase) to understand usage patterns. Collected data is aggregated and anonymous.
 
-## 3. Data Sharing and Disclosure
+## 3. How We Use Your Information
 
-* We do **not** share, sell, or trade your personal data with third parties.
-* Aggregated, anonymous analytics data may be shared with service providers to improve app performance.
+- **App Functionality:** Device information helps us deliver core features and ensure compatibility.  
+- **Improvements & Debugging:** Usage statistics and crash reports allow us to enhance the app and fix bugs.  
+- **Purchases:** We verify purchase receipts to grant in-app items (e.g., tarot readings, diamond bundles).
 
-## 4. Third-Party Services
+## 4. Data Sharing and Disclosure
+
+- We **do not** share, sell, or trade your personal data with third parties.  
+- Aggregated, anonymous analytics data may be shared with service providers to improve app performance.
+
+## 5. Third-Party Services
 
 We integrate the following third-party services:
 
-* **Google Mobile Ads:** Displays ads in the app; it may use device identifiers to show personalized ads. See Google’s Privacy Policy for details.
-* **In-App Purchase:** Uses platform billing APIs (Google Play or App Store) to process transactions. Payment methods are managed by the store; we do not store any payment credentials.
-* **Analytics SDKs:** Collects anonymous usage metrics.
+- **Google AdMob (Mobile Ads):** Displays banner, interstitial, and rewarded ads within the app; may use device identifiers to serve personalized ads. See [Google’s Privacy Policy](https://policies.google.com/privacy) for details.  
+- **In-App Billing (Google Play):** Processes purchases via platform APIs; we do not store your payment methods.  
+- **Analytics SDKs:** Collects anonymous usage metrics to help us understand engagement.
 
-## 5. Security
+## 6. Security
 
-We implement reasonable security measures to protect data in transit and at rest. However, no method of transmission over the internet or electronic storage is 100% secure.
+We implement reasonable technical and organizational measures to protect data in transit and at rest. However, no method of transmission over the internet or electronic storage is 100% secure.
 
-## 6. Children’s Privacy
+## 7. Children’s Privacy
 
-Our app is not directed to children under 13. We do not knowingly collect personal information from children under 13.
+Our app is not directed at children under 13. We do not knowingly collect personal information from children under 13.
 
-## 7. Your Rights
+## 8. Your Rights
 
-Depending on your location, you may have the right to:
+Depending on your jurisdiction, you may have the right to:
 
-* Access or request a copy of data we hold.
-* Correct or delete your data.
-* Opt out of certain data processing.
+- Access or request a copy of the data we hold.  
+- Correct or delete your data.  
+- Opt out of certain data processing activities.
 
-To exercise these rights, please contact us at: [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
+To exercise these rights, contact us at: [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
 
-## 8. Changes to This Policy
+## 9. Changes to This Policy
 
-We may update this Privacy Policy from time to time. The new version will be indicated by "Last updated" date.
+We may update this Privacy Policy periodically. The new version will be indicated by an updated "Last updated" date.
 
-## 9. Contact Us
+## 10. Contact Us
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Tarot App Support**
+**Cao Văn Việt**  
 Email: [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
+
+© 2025 Cao Văn Việt. All rights reserved.
