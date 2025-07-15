@@ -66,7 +66,7 @@ We may update this Privacy Policy periodically. The new version will be indicate
 
 If you have any questions about this Privacy Policy, please contact:
 
-**Cao Văn Việt**  
+**CoderViet**  
 Email: [vietcv88@gmail.com](mailto:vietcv88@gmail.com)
 
 © 2025 CoderViet. All rights reserved.
